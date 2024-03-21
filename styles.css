@@ -1,0 +1,57 @@
+main{
+  background-color:#F6F5F3;
+margin: 5vh 1vh;
+border-radius:1vh;
+}
+
+#title{
+  text-align:center;
+  padding:3vh;
+}
+p{
+  text-align:center;
+}
+#image{
+ max-width:100%;
+max-height:100%;
+
+}
+#mydiv{
+   display:flex;
+justify-content:center;
+
+}
+#img-div{
+
+
+}
+#figure-sec{
+background-color:white;
+padding:1vh 0vh;
+margin:0vh 2vh;
+}
+#img-caption{
+  padding:2vh 2vh
+}
+h3{
+  text-align:center;
+}
+
+ul li{
+margin-top:3vh
+}
+div{
+  padding:0vh 3vh
+}
+#myp{
+  text-align:start;
+  padding:0vh 3vh
+}
+h2{
+  text-align:center;
+  padding:3vh
+}
+#div-ul{
+  display:flex;
+  justify-content:center;
+}
